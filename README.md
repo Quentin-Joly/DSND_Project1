@@ -25,5 +25,18 @@ Kaggle : Data provider
 ## Authors 
 Quentin Joly : Jupyter Notebook
 
+## Summary
+Q1 - Is it possible to predict the expected salary and what are the most influencial coefficients to the salary expectation?
+   -> We can predict the Expected Salary mostly with the ImportantBenefits column and a little bit with the Country column as well, but with a low precision (R² = 0.24)
+   
+Q2 - Is it possible to predict how much hours someone spend on looking for job opportunities ?
+   -> The best R² score found is 0.006 which is very low, the data model used might be not the most appropriated to predict the HoursPerWeek column. With this data model, we can't predict this variable.
+   
+Q3 - Can we predict how many hours someone will work per week?
+   -> After various runs of the jupyter notebook, the best R² for the prediction is variating between -0.33 and -0.01. This difference is probably due to the random sample I take at the beginning of the study because of low memory issues.
+   
+Q4 - How is evolving the popularity of StackOverflow?
+   -> Among the people who answered, most of them join the community by created an account but they don't really feel part of the community. The welcome to the site is mostly the same through time. Since 2014 they are fewer each year to discover Stack Overflow but the frequecy of the frequentation of the site is quite high.
+   
 #### Last edition
 13/03/2020
