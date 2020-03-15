@@ -37,6 +37,9 @@ Q3 - Can we predict how many hours someone will work per week?
    
 Q4 - How is evolving the popularity of StackOverflow?
    -> Among the people who answered, most of them join the community by created an account but they don't really feel part of the community. The welcome to the site is mostly the same through time. Since 2014 they are fewer each year to discover Stack Overflow but the frequecy of the frequentation of the site is quite high.
-   
+
+## Medium link
+https://medium.com/@quentinjoly31/stack-overflow-survey-investigation-3e7b5c7ed159 
+
 #### Last edition
-13/03/2020
+15/03/2020
