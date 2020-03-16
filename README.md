@@ -10,14 +10,14 @@ Study of the Stack Overflow survey answers
 ## Project motivation
 I investigate some insights about the survey answers to the Stack Overflow surveys and I try to make predictions on some variables about the Stack Overflowers. Then I added one more insight with visualizations about Stack Overflow.
 
+## Data
+The data used are the answers to the Stack Ovreflow surveys for 2017, 2018 and 2019 found at https://insights.stackoverflow.com/survey. It can be as weel foud on the repo.
+
 ## File description
 - Stack Overflow study.ipynb : Wrangling and analysing the data extracted from the .csv files
 - survey_results_public_2017 : The data downloaded from Kaggle for 2017
 - survey_results_public_2018 : The data downloaded from Kaggle for 2018
 - survey_results_public_2019 : The data downloaded from Kaggle for 2019
-
-## Data
-The data used are the answers to the Stack Ovreflow surveys for 2017, 2018 and 2019 found at https://insights.stackoverflow.com/survey. It can be as weel foud on the repo.
 
 ## Summary
 Q1 - Is it possible to predict the expected salary and what are the most influencial coefficients to the salary expectation?
